@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding-right: 0;
+    font-family: 'Work Sans', sans-serif;
+ 
+   
+
+}
+.header-container{
+background-image: url(./new-year-new-me/images/banner/banner1.png);
+width: 90%;
+height: 100vh;
+background-repeat: no-repeat;
+padding-right: 100px;
+padding-top: 200px;
+background-size: cover;
+background-size: 100%
+
+}
+.haeder-title{
+    color: #151414;
+    font-weight: 700;
+font-size: 65px;
+margin-bottom: 24px;
+text-align: right;
+padding-right: 200px;
+}
+.header-text{
+    color: #444343;
+    font-weight: 600;
+font-size: 16px;
+margin-bottom: 32px;
+text-align: right;
+padding-right: 200px;
+}
+.btn-primary{
+    background: #F15B22;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 20px;
+padding: 20px 25px;
+text-align: right;
+
+
+
+}
+.header-btn{
+    text-align: right;
+    padding-right: 200px;
+
+
+  justify-content: right;
+  justify-items: right;
+}
+.second-layer{
+    display: flex;
+    
+    justify-content: space-around;
+    
+}
+.sn-title{
+    color: #151414;
+    font-weight: 700;
+font-size: 40px;
+padding-bottom: 24px;
+
+}
+.sn-text{
+    color: #444343;
+    font-weight: 600;
+font-size: 16px;
+padding-bottom: 16px;
+}
+.sn-brif{
+    color: #444343;
+    font-weight: 600;
+font-size: 16px;
+}
+.sn-main{
+    padding-top: 230px;
+    padding-right: 650px;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.img-title{
+    color: #151414;
+    font-weight: 700;
+font-size: 30px;
+}
+.img-text{
+    color: #737272;
+    font-weight: 500;
+font-size: 25px;
+}
+.plan{
+    color: #151414;
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+padding-bottom: 56px;
+}
+.li{
+    
+}
+.sn-p{
+    padding-bottom: 10px;
+}
+.footer-title{
+    color: #F8F8F8;
+    font-weight: 700;
+font-size: 45px;
+padding-bottom: 15px;
+}
+.footer-text{
+    color: #FFFFFF;
+    font-weight: 400;
+font-size: 16px;
+}
+.footer-main{
+    background: #151414;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.sub{
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 25px;
+padding-bottom: 30px;
+}
+.ul1{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.txt{
+    padding-bottom: 5px;
+}
+.tt{
+    padding-bottom: 25px;
+}
+#email{
+padding-bottom: 16px;
+}
+#phone{
+padding-bottom: 30px;
+}
+.foot-img{
+    justify-content: left;
+    justify-items: left;
+    text-align: left;
+    padding-left: 0;
+}
+.box{
+padding: 15px 20px;
+border-radius: 8px;
+color: #000000;
+font-weight: 400;
+font-size: 18px;
+}
+.subs{
+    color: #F15B22;
+    font-weight: 600;
+font-size: 20px;
+border-radius: 8px;
+padding:20px 35px ;
+}
+.grad-title{
+    color: #080808;
+    font-weight: 700;
+font-size: 40px;
+padding-bottom: 25px;
+
+}
+.grad-btn{
+    color: #F15B22;
+    font-weight: 600;
+font-size: 20px;
+padding: 20px 35px;
+
+}
+.gradiant{
+padding-top: 60px;
+padding-left: 60px;
+border-radius: 8px;
+
+background-repeat: no-repeat;
+margin: 130px 280px;
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url("./new-year-new-me/images/watch.png"); ;
+
+
+}
+
+.gap{
+    padding-bottom: 60px;
+}
