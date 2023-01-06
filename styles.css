@@ -55,7 +55,8 @@ text-align: right;
 }
 .second-layer{
     display: flex;
-    
+    height: 100hv;
+    width: 100%;
     justify-content: space-around;
     
 }
