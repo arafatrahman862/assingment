@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid lightblue;
+    background-color: lightcoral;
+}
+.ul{
+    display: flex;
+    
+    list-style: none;
+}
+.li{
+    justify-content: space-around;
+    font-size: 40px;
+    font-weight: 400px;
+    
+}
+.title{
+    font-size: 40px;
+    font-weight: 400px;
+}
+.nav{
+    justify-content: space-around;
+}
